@@ -1,0 +1,10 @@
+{
+    "wwidth": 880,
+    "wheight": 620,
+    "terminal": "sakura",
+    "cat_icon_size": 64,
+    "item_icon_size": 64,
+    "live_search": 3,
+    "num_items": 3,
+    "menu_editor": "./menu_editor"
+}

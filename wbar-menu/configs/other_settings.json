@@ -1,0 +1,12 @@
+{
+    "pad-value": 4,
+    "logout": "",
+    "shutdown": "",
+    "reboot": "",
+    "lock": "",
+    "user1": "",
+    "user2": "",
+    "rebuild": 1,
+    "wlrctl": 1,
+    "fifo": 1
+}
