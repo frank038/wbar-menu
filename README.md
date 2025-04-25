@@ -36,15 +36,15 @@ First add "custom/mymenu" in modules-left/center/right section
 
 Labwc example rule (the window will appear at the top-left of the monitor):
 
-<windowRule title="wbarmenu-1">
-    <skipWindowSwitcher>yes</skipWindowSwitcher>
-    <ignoreConfigureRequest>yes</ignoreConfigureRequest>
-    <fixedPosition>yes</fixedPosition>
-    <action name="MoveTo" x="10" y="50" />
-    <action name="alwaysOnTop"/>
-</windowRule>
+#<windowRule title="wbarmenu-1">
+#    <skipWindowSwitcher>yes</skipWindowSwitcher>
+#    <ignoreConfigureRequest>yes</ignoreConfigureRequest>
+#    <fixedPosition>yes</fixedPosition>
+#    <action name="MoveTo" x="10" y="50" />
+#    <action name="alwaysOnTop"/>
+#</windowRule>
 
-![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot1.png)
+![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot1.jpg)
 
 ![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot2.png)
 
