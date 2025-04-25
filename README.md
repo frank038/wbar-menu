@@ -44,4 +44,8 @@ Labwc example rule (the window will appear at the top-left of the monitor):
     <action name="alwaysOnTop"/>
 </windowRule>
 
+![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot1.png)
 
+![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot2.png)
+
+![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot3.png)
