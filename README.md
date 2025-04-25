@@ -18,7 +18,8 @@ Features:
 - custom buttons for logout, reboot and shutdown; and to launch a menu editor (a script for menulibre is already present);
 - the list of the applications will rebuild automatically (this behaviour can be changed: in this case the menu must be rebuilt manually - a button will appear at left);
 - the open/close functionality uses a simple fifo file (the command are: __exit to close the program; __toggle to open or close the program);
-- graphical configurator for all its options.
+- graphical configurator for all its options;
+- a css file for changing the application theme.
 
 May have some unknown issues.
 
