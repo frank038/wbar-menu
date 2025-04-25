@@ -45,6 +45,15 @@ Labwc example rule (the window will appear at the top-left of the monitor):
     <action name="alwaysOnTop"/>
 </windowRule>
 ```
+
+Wayfire example rules (the window will appear at the top-left of the monitor):
+```
+[window-rules]
+rule_winmenu1 = on created if title contains "wbarmenu-1" then move 10 50
+rule_winmenu2 = on created if title contains "wbarmenu-1" then set always_on_top
+```
+
+
 ![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot1.jpg)
 
 ![My image](https://github.com/frank038/wbar-menu/blob/main/screenshot2.jpg)
