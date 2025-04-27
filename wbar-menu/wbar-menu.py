@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# V. 0.5
+# V. 0.5.1
 
 import os,sys,shutil,stat
 import gi
@@ -1510,7 +1510,7 @@ class infoDialog(Gtk.Dialog):
 
 class DialogConfiguration(Gtk.Dialog):
     def __init__(self, parent):
-        super().__init__(title="Settings", transient_for=parent)
+        super().__init__(title="Settings", transient_for=None)
         
         self.add_buttons("OK", Gtk.ResponseType.OK, "Cancel", Gtk.ResponseType.CANCEL)
         self.set_icon_name(os.path.join(_curr_dir,"configurator.svg"))
