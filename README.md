@@ -5,7 +5,7 @@ This is a menu application manager.
 Requirements:
 - python3
 - gtk4 python bindings
-- wlrctl (needed to open and close; an internal method is alse present, but it is retarded in opening/show)
+- wlrctl (needed to open and close; an internal method is alse present, but it has some lag in opening/show)
 - wayland
 
 
